@@ -7,3 +7,12 @@ build/
 changes.diff
 backup.backup
 src/server/firebase/serviceAccount.json
+/.idea/codeStyles/
+/.idea/inspectionProfiles/
+/.idea/sonarlint/
+/.idea/.gitignore
+/.idea/aws.xml
+/.idea/background-geolocation-console.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
